@@ -1,0 +1,8 @@
+# CPU Scheduling Algorithms Simulation Dependencies
+
+# Visualization (matplotlib version)
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Visualization (Dear PyGui version)
+dearpygui>=1.9.0
